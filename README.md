@@ -9,6 +9,7 @@ A simple and intuitive weather application built using HTML, CSS, and JavaScript
 - **Dynamic Backgrounds**: The app changes its background based on the weather conditions.
 - **Responsive Design**: Fully responsive and works seamlessly on all devices.
 
+
 ## Technologies Used
 
 - **HTML**: For the structure of the application.
